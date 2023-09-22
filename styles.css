@@ -1,0 +1,73 @@
+*{
+    font-family: Arial, sans-serif;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    background:url("https://imgv3.fotor.com/images/share/pink-water-ripple-background.jpg");
+}
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+form label {
+    display: block;
+    margin-top: 10px;
+}
+
+form input[type="text"],
+form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    font-weight: 500;
+    background-color: #007bff;
+    color: black;
+    border-radius: 10rem;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: green;
+}
+
+.result {
+    margin-top: 20px;
+    background: white;
+    color: black;
+}
+
+#titleBlock{
+    background-color: rgb(1, 1, 1);
+    border-radius: 5px;
+    padding: 25px;
+    margin: 10px;
+    text-align: center;
+    font-weight:800;
+    color: white;
+    font-family: sans-serif,Arial, Helvetica;
+}
+
+footer{
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+    color: white;
+    border-radius: 5px;
+    font-weight: 300;
+    opacity:95%;
+    background-color: black;
+}
