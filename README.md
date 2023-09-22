@@ -24,3 +24,5 @@ This content management tool is highly customizable. You can change the appearan
 Responsive design:
 
 This content management tool uses responsive design, so your blog will look great on all devices, from desktop computers to smartphones.
+
+Preview : https://thenagarajanv.github.io/ContentMangementTool.github.io/
